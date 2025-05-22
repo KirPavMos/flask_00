@@ -1,0 +1,9 @@
+body {
+    font-size: 200%;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: lightblue;
+    margin: 0;
+    padding: 20px;
+    line-height: 1.5;
+    color: #333; /* Добавляем цвет текста */
+}
